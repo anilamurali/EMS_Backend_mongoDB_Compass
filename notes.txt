@@ -1,0 +1,20 @@
+
+                                        EMS-backend
+                    1. Create a new folder named as ems-backend
+                    2.create package.jsone file - npm init -y
+                    3.install express (node.js framework)
+                    4.install cors 
+                    npm i cors
+                    ->The word CORS stands for “Cross-Origin Resource Sharing”. Cross-Origin Resource Sharing 
+                    is an HTTP-header based mechanism implemented by the browser which allows a server or an API(Application 
+                    Programming Interface) to indicate any origins (different in terms of protocol, hostname, or port) 
+                    other than its origin from which the unknown origin gets permission to access and load resources. 
+                    The cors package available in the npm registry is used to tackle CORS errors in a Node.js application.
+
+                    5.create index.js (main entry point)
+                    6.create a new folder named as services inside  the folder create a file -db.js (node + mongodb connection)
+                    7.install mongoose
+                    ->Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment
+                    ->npm i mongoose
+                    
+                    
